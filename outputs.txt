@@ -1,0 +1,11 @@
+Resource Group: MyCanadaRG
+Region: Canada Central
+VM Name: myVM
+VM Size: Standard_B2s_v2
+OS: Ubuntu 22.04 LTS
+Public IP: 20.104.202.15
+NSG: myNSG
+Virtual Network: myVNet
+Subnet: mySubnet
+Deployment Status: Succeeded
+SSH Connectivity: Successful
