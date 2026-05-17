@@ -156,7 +156,9 @@ Additionally, SSH connectivity initially failed because the Network Security Gro
 
 ## SSH Access
 
-![SSH Success](screenshots/ssh-success.png)
+![SSH Success]
+![alt text](<SSH into VM 1.png>)
+![alt text](<SSH into VM 2.png>)
 
 ---
 
