@@ -187,3 +187,5 @@ Additionally, SSH connectivity initially failed because the Network Security Gro
 # Author
 
 Nnenna Ewa F. 
+# Azure-Week2-IaC
+Azure Infrastructure as Code project using ARM Templates
